@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phobia Client", "Phobia Client\Phobia Client.csproj", "{F0F53E02-811F-4661-8341-2FDEC175B34D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0F53E02-811F-4661-8341-2FDEC175B34D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F53E02-811F-4661-8341-2FDEC175B34D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F53E02-811F-4661-8341-2FDEC175B34D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F53E02-811F-4661-8341-2FDEC175B34D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D5F1BF1-0D4C-424D-97AD-C5C9D94A0E84}
+	EndGlobalSection
+EndGlobal

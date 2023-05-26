@@ -1,0 +1,8 @@
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\bin\Debug\Phobia Server.exe.config
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\bin\Debug\Phobia Server.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\bin\Debug\Phobia Server.pdb
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\obj\Debug\Phobia Server.csproj.AssemblyReference.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\obj\Debug\Phobia Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\obj\Debug\Phobia Server.csproj.CoreCompileInputs.cache
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\obj\Debug\Phobia Server.exe
+C:\Users\ygzat\OneDrive\Masaüstü\Phobia Rat\Phobia Server\Phobia Server\obj\Debug\Phobia Server.pdb
